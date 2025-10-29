@@ -1,1 +1,1 @@
-<h1>Rock Paper Scisscor</h1>
+<h1>Rock Paper Scissor</h1>
